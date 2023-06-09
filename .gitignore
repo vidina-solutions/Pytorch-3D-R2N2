@@ -4,4 +4,4 @@ __pycache__
 experiments/**
 *.tgz
 ShapeNet
-
+**/*.swp
