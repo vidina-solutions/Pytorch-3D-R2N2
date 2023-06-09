@@ -11,7 +11,7 @@ IoU | Loss |
 0.591 | 0.093 | 
 
 ## Installation
-The code was tested with Python 3.6.  
+The code was tested with Python 3.8.  
 
 - Download the repository
 ```
